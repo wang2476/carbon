@@ -44,15 +44,13 @@ b. <a target="_blank"  href="http://github.com/FortAwesome/Font-Awesome/">Font A
 
 c. <a target="_blank"  href="http://github.com/PixelUnion/Extended-Tumblr-Photoset">PXU Photoset Extended</a> by Pixelunion.
 
-d. <a target="_blank"  href="http://github.com/desandro/masonry">Masonry</a> by Desandro.
+d. <a target="_blank"  href="http://github.com/paulirish/infinite-scroll">Infinite Scroll</a> by Paul Irish &amp; Luke Shumard.
 
-e. <a target="_blank"  href="http://github.com/paulirish/infinite-scroll">Infinite Scroll</a> by Paul Irish &amp; Luke Shumard.
+e. <a target="_blank"  href="http://manos.malihu.gr/style-my-tooltips-jquery-plugin/">Style my Tooltips</a> by Manos Malihu
 
-f. <a target="_blank"  href="http://manos.malihu.gr/style-my-tooltips-jquery-plugin/">Style my Tooltips</a> by Manos Malihu
+f. <a target="_blank"  href="http://github.com/jackmoore/colorbox">Colorbox</a> by Jack Moore.
 
-g. <a target="_blank"  href="http://github.com/jackmoore/colorbox">Colorbox</a> by Jack Moore.
-
-h. <a target="_blank"  href="http://github.com/markgoodyear/scrollup">Scrollup</a> by Mark Goodyear
+g. <a target="_blank"  href="http://github.com/markgoodyear/scrollup">Scrollup</a> by Mark Goodyear
 
 Any Questions?
 =============
