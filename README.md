@@ -40,7 +40,7 @@ Below are the file used in the theme.
 
 a. <a target="_blank"  href="http://jquery.com/">jQuery</a> by jQuery team
 
-b. <a target="_blank"  href="http://github.com/FortAwesome/Font-Awesome/">Font-Awesome</a> by Dave Gandy.
+b. <a target="_blank"  href="http://github.com/FortAwesome/Font-Awesome/">Font Awesome</a> by Dave Gandy.
 
 c. <a target="_blank"  href="http://github.com/PixelUnion/Extended-Tumblr-Photoset">PXU Photoset Extended</a> by Pixelunion.
 
@@ -48,7 +48,7 @@ d. <a target="_blank"  href="http://github.com/desandro/masonry">Masonry</a> by 
 
 e. <a target="_blank"  href="http://github.com/paulirish/infinite-scroll">Infinite Scroll</a> by Paul Irish &amp; Luke Shumard.
 
-f. <a target="_blank"  href="http://manos.malihu.gr/style-my-tooltips-jquery-plugin/">Style-my-tooltips</a> by Manos Malihu
+f. <a target="_blank"  href="http://manos.malihu.gr/style-my-tooltips-jquery-plugin/">Style my Tooltips</a> by Manos Malihu
 
 g. <a target="_blank"  href="http://github.com/jackmoore/colorbox">Colorbox</a> by Jack Moore.
 
