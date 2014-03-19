@@ -1,6 +1,6 @@
 Carbon Fiber
 =============
-<img src="//31.media.tumblr.com/themes/screenshots/RIzmldaIjFxJAWak_o1.png" width="630" height="450" alt="Infinite Grid" />
+<img src="http://31.media.tumblr.com/themes/screenshots/RIzmldaIjFxJAWak_o1.png" width="630" height="450" alt="Infinite Grid" />
 
 Carbon Fiber theme is a modern minimalist responsive single column Tumblr theme which supported all tumblr post type and was optimized for better page loading speed performance.
 
@@ -38,22 +38,22 @@ Sources and Credits
 =============
 Below are the file used in the theme.
 
-a. <a target="_blank"  href="//jquery.com/">jQuery</a> by jQuery team
+a. <a target="_blank"  href="http://jquery.com/">jQuery</a> by jQuery team
 
-b. <a target="_blank"  href="//github.com/FortAwesome/Font-Awesome/">Wow Slider</a> by Dave Gandy.
+b. <a target="_blank"  href="http://github.com/FortAwesome/Font-Awesome/">Font-Awesome</a> by Dave Gandy.
 
-c. <a target="_blank"  href="//github.com/PixelUnion/Extended-Tumblr-Photoset">PXU Photoset Extended</a> by Pixelunion.
+c. <a target="_blank"  href="http://github.com/PixelUnion/Extended-Tumblr-Photoset">PXU Photoset Extended</a> by Pixelunion.
 
-d. <a target="_blank"  href="//github.com/desandro/masonry">Masonry</a> by Desandro.
+d. <a target="_blank"  href="http://github.com/desandro/masonry">Masonry</a> by Desandro.
 
-e. <a target="_blank"  href="//github.com/paulirish/infinite-scroll">Infinite Scroll</a> by Paul Irish &amp; Luke Shumard.
+e. <a target="_blank"  href="http://github.com/paulirish/infinite-scroll">Infinite Scroll</a> by Paul Irish &amp; Luke Shumard.
 
 f. <a target="_blank"  href="http://manos.malihu.gr/style-my-tooltips-jquery-plugin/">Style-my-tooltips</a> by Manos Malihu
 
-g. <a target="_blank"  href="//github.com/jackmoore/colorbox">Colorbox</a> by Jack Moore.
+g. <a target="_blank"  href="http://github.com/jackmoore/colorbox">Colorbox</a> by Jack Moore.
 
-h. <a target="_blank"  href="//github.com/markgoodyear/scrollup">Scrollup</a> by Mark Goodyear
+h. <a target="_blank"  href="http://github.com/markgoodyear/scrollup">Scrollup</a> by Mark Goodyear
 
 Any Questions?
 =============
-Last but not least, if you have any questions about this themes. Don't hesitate to get in touch by contacting me at <a target="_blank" href="//twitter.com/dinatadaniel">Twitter</a>, <a target="_blank" href="//facebook.com/dinatadaniel">Facebook</a> or via <a target="_blank" href="//dinatadaniel.tumblr.com/ask">Tumblr Ask</a>.
+Last but not least, if you have any questions about this themes. Don't hesitate to get in touch by contacting me at <a target="_blank" href="http://twitter.com/dinatadaniel">Twitter</a>, <a target="_blank" href="http://facebook.com/dinatadaniel">Facebook</a> or via <a target="_blank" href="http://dinatadaniel.tumblr.com/ask">Tumblr Ask</a>.
