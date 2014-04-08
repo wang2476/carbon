@@ -11,7 +11,7 @@
                                              
 =======================================================================
    Carbon Fiber
-   Build: March 19th, 2014
+   Build: Apr 8th, 2014
    By: Dinata Daniel
 =======================================================================
 -->
@@ -30,6 +30,7 @@
     <meta name="color:Shadow" content="#fff"/>
     <meta name="if:Use Bg Image" content="1"/>
     <meta name="if:Use Lazy Load Image" content="0"/>
+    <meta name="if:Shake Photo Post" content="0"/>
     <meta name="if:Show Nav" content="1" />
     <meta name="if:Show Header" content="1" />
     <meta name="if:Show Title" content="1" />
@@ -94,12 +95,12 @@
     <meta name="select:Font Title" content="Vibur" title="Vibur" />
     <meta name="select:Font Title" content="Kenia" title="Kenia" />
     <meta name="select:Font Title" content="Pacifico" title="Pacifico" />
+    <meta name="select:Font Desc" content="Parisienne" title="Parisienne" />
     <meta name="select:Font Desc" content="Zeyada" title="Zeyada" />
     <meta name="select:Font Desc" content="Rochester" title="Rochester" />
     <meta name="select:Font Desc" content="Sacramento" title="Sacramento" />
     <meta name="select:Font Desc" content="Montez" title="Montez" />
     <meta name="select:Font Desc" content="Niconne" title="Niconne" />
-    <meta name="select:Font Desc" content="Parisienne" title="Parisienne" />
     <meta name="select:Font Desc" content="Allura" title="Allura" />
     <meta name="select:Font Desc" content="Cookie" title="Cookie" />
     <meta name="select:Font Desc" content="Vibur" title="Vibur" />
@@ -150,12 +151,12 @@
     <meta property="og:url" content="{block:IndexPage}{BlogURL}{/block:IndexPage}{block:PermalinkPage}{Permalink}{/block:PermalinkPage}" />
     <meta property="og:site_name" content="{Title}" />
     <meta property="og:image" content="{PortraitURL-48}" />
-    <link rel="shortcut icon" href="{Favicon}" />
+    <link rel="icon" href="{Favicon}" />
     <link rel="alternate" type="application/rss+xml" href="{RSS}" />
     <link rel="apple-touch-icon" href="{PortraitURL-128}" />
     <link rel="apple-touch-icon-precomposed" href="{PortraitURL-64}" />
     <link rel="canonical" href="{block:IndexPage}{BlogURL}{/block:IndexPage}{block:PermalinkPage}{Permalink}{/block:PermalinkPage}" />
-    <link rel="stylesheet" href="//static.tumblr.com/tekiskr/E4xn1wi0s/style.min.css" type="text/css" />
+    <link rel="stylesheet" href="//static.tumblr.com/tekiskr/JHyn3pz7x/style.min.css" type="text/css" />
     <link href='//fonts.googleapis.com/css?family={select:Font Title}|{select:Font Desc}|{select:Font Post Title}|{select:Font Chat}|{select:Font Quote}|{select:Font Variation}' rel='stylesheet' type='text/css'>
     <style type="text/css">
       /* =================    Background    ================= */
@@ -218,7 +219,11 @@
       }
       .answer > .question,.answer > .question a:hover {
       color:{color:Variation}
-      }
+      }{block:IfNotShakePhotoPost}
+      .post-media-border:hover{
+      -webkit-animation-name:none !important;
+      animation-name:none !important;
+      }{/block:IfNotShakePhotoPost}
       /* =================    Border    ================= */
       ol.notes,.date,.navigation {
       border-bottom:1px solid {color:Variation}
